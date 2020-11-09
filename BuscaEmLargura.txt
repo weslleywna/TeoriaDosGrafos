@@ -1,0 +1,7 @@
+30 tem nivel: 0  Pai:0
+20 tem nivel: 1  Pai:30
+40 tem nivel: 1  Pai:30
+70 tem nivel: 1  Pai:30
+10 tem nivel: 2  Pai:20
+60 tem nivel: 2  Pai:40
+50 tem nivel: 2  Pai:40

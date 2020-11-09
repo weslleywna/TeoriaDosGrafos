@@ -1,0 +1,435 @@
+# depslib dependency file v1.0
+1477517991 source:c:\users\thales castro\documents\trabalhografos\codigofonte\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+
+1477516789 source:c:\users\thales castro\documents\trabalhografos\codigofonte\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1477516789 c:\users\thales castro\documents\trabalhografos\codigofonte\include\aresta.h
+	<list>
+
+1477516789 c:\users\thales castro\documents\trabalhografos\codigofonte\include\no.h
+	<list>
+	"Aresta.h"
+
+1477516789 source:c:\users\thales castro\documents\trabalhografos\codigofonte\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+
+1477516789 c:\users\thales castro\documents\trabalhografos\codigofonte\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+
+1477516789 source:c:\users\thales castro\documents\trabalhografos\codigofonte\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1477516789 source:c:\users\weslley\desktop\codigofonte incompleto\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1477516789 c:\users\weslley\desktop\codigofonte incompleto\include\aresta.h
+	<list>
+
+1478193676 source:c:\users\weslley\desktop\codigofonte incompleto\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+
+1478191506 c:\users\weslley\desktop\codigofonte incompleto\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+
+1477516789 c:\users\weslley\desktop\codigofonte incompleto\include\no.h
+	<list>
+	"Aresta.h"
+
+1477516789 source:c:\users\weslley\desktop\codigofonte incompleto\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1478193548 source:c:\users\weslley\desktop\codigofonte incompleto\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+
+1481011099 source:c:\users\weslley\desktop\codigofonte incompleto desatualizado\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+
+1480903854 c:\users\weslley\desktop\codigofonte incompleto desatualizado\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+
+1480903546 c:\users\weslley\desktop\codigofonte incompleto desatualizado\include\no.h
+	<list>
+	"Aresta.h"
+
+1480903546 c:\users\weslley\desktop\codigofonte incompleto desatualizado\include\aresta.h
+	<list>
+
+1480903546 source:c:\users\weslley\desktop\codigofonte incompleto desatualizado\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1480903546 source:c:\users\weslley\desktop\codigofonte incompleto desatualizado\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1480905029 source:c:\users\weslley\desktop\codigofonte incompleto desatualizado\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+
+1481482112 source:c:\users\weslley\desktop\codigofonte imcompleto code\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1481482112 c:\users\weslley\desktop\codigofonte imcompleto code\include\aresta.h
+	<list>
+
+1481482112 source:c:\users\weslley\desktop\codigofonte imcompleto code\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1481482112 c:\users\weslley\desktop\codigofonte imcompleto code\include\no.h
+	<list>
+	"Aresta.h"
+
+1481482112 c:\users\weslley\desktop\codigofonte imcompleto code\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+	<fstream>
+
+1481070711 source:c:\users\weslley\desktop\codigofonte imcompleto code\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+
+1481482258 source:c:\users\weslley\desktop\codigofonte imcompleto code\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+
+1481573760 source:c:\users\ribei\desktop\codigofonte imcompleto code\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1481568060 c:\users\ribei\desktop\codigofonte imcompleto code\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+	<fstream>
+
+1481482112 c:\users\ribei\desktop\codigofonte imcompleto code\include\no.h
+	<list>
+	"Aresta.h"
+
+1481482112 c:\users\ribei\desktop\codigofonte imcompleto code\include\aresta.h
+	<list>
+
+1481482112 source:c:\users\ribei\desktop\codigofonte imcompleto code\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1481575228 source:c:\users\ribei\desktop\codigofonte imcompleto code\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+
+1481482112 source:c:\users\ribei\desktop\codigofonte imcompleto code\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1481482112 source:c:\users\weslley\desktop\desespero\codigofonte imcompleto code\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1481482112 c:\users\weslley\desktop\desespero\codigofonte imcompleto code\include\aresta.h
+	<list>
+
+1481579905 source:c:\users\weslley\desktop\desespero\codigofonte imcompleto code\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1481579905 c:\users\weslley\desktop\desespero\codigofonte imcompleto code\include\no.h
+	<list>
+	"Aresta.h"
+
+1481586671 c:\users\weslley\desktop\desespero\codigofonte imcompleto code\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+	<fstream>
+
+1481596641 source:c:\users\weslley\desktop\desespero\codigofonte imcompleto code\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1481587305 source:c:\users\weslley\desktop\desespero\codigofonte imcompleto code\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+
+1481482112 source:c:\users\thales castro\desktop\trabalho grafos\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1481482112 c:\users\thales castro\desktop\trabalho grafos\include\aresta.h
+	<list>
+
+1481579905 source:c:\users\thales castro\desktop\trabalho grafos\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1481579905 c:\users\thales castro\desktop\trabalho grafos\include\no.h
+	<list>
+	"Aresta.h"
+
+1481598657 c:\users\thales castro\desktop\trabalho grafos\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+	<fstream>
+
+1481598465 source:c:\users\thales castro\desktop\trabalho grafos\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+
+1481482112 source:c:\users\ribei\desktop\trabalho grafos\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1481482112 c:\users\ribei\desktop\trabalho grafos\include\aresta.h
+	<list>
+
+1481579905 source:c:\users\ribei\desktop\trabalho grafos\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1481579905 c:\users\ribei\desktop\trabalho grafos\include\no.h
+	<list>
+	"Aresta.h"
+
+1483067563 c:\users\ribei\desktop\trabalho grafos\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+	<fstream>
+
+1483067562 source:c:\users\ribei\desktop\trabalho grafos\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+
+1483064592 source:c:\users\ribei\desktop\trabalho grafos\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1481482112 source:c:\users\weslley\desktop\trabalhografos final\trabalho grafos\src\aresta.cpp
+	"Aresta.h"
+	<list>
+
+1481482112 c:\users\weslley\desktop\trabalhografos final\trabalho grafos\include\aresta.h
+	<list>
+
+1483203373 source:c:\users\weslley\desktop\trabalhografos final\trabalho grafos\src\grafo.cpp
+	"Grafo.h"
+	<ostream>
+	<list>
+	"No.h"
+	"Aresta.h"
+	<algorithm>
+	<iterator>
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+
+1483067563 c:\users\weslley\desktop\trabalhografos final\trabalho grafos\include\grafo.h
+	<list>
+	"No.h"
+	<vector>
+	<limits.h>
+	<string>
+	<set>
+	<time.h>
+	<vector>
+	<fstream>
+
+1481579905 c:\users\weslley\desktop\trabalhografos final\trabalho grafos\include\no.h
+	<list>
+	"Aresta.h"
+
+1481579905 source:c:\users\weslley\desktop\trabalhografos final\trabalho grafos\src\no.cpp
+	"No.h"
+	<list>
+	"Grafo.h"
+
+1483201561 source:c:\users\weslley\desktop\trabalhografos final\trabalho grafos\main.cpp
+	<iostream>
+	"Grafo.h"
+	<vector>
+	<limits.h>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
